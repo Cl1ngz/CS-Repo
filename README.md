@@ -9,6 +9,8 @@
 
 # 2. Zapoznanie z gitem
 
+![github_commits](./Photos/github_commits.png)
+
 # 3. Zapoznanie z profilowaniem
 
 # 4. Zapoznanie z debugowaniem
